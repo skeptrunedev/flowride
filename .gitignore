@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.wrangler/
+.env*
+.openai/
+.DS_Store
+*.log
+coverage/
+wrangler.production.jsonc
+source.tar.gz
